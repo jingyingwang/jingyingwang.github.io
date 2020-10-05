@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 <details open>
   <summary>about</summary>
 
@@ -76,8 +75,10 @@ layout: home
   
 - <details>
   <summary>oct 2020</summary>
-
 	- sets can be open and nopen
+	- Aristotle, _Politics_ Book 3.13.12: But correctness must be taken to mean “in an equal spirit”: what is [enacted] in an equal spirit is correct with a view both to the advantage of the city as a whole and to the common [advantage] of the citizens. A citizen in the common sense is one who shares in ruling and being ruled; but he differs in accordance with each regime. In the case of the best regime, he is one who is capable of and intentionally chooses being ruled and ruling with a view to the life in accordance with virtue.
+	- is moderation an extreme?
+	- [Sonnet, with Tainted Love][6] by Sherman Alexie
   </details>
 </details>
 
@@ -87,3 +88,4 @@ layout: home
 [3]:	https://jingyingwang.github.io/
 [4]:	https://docs.google.com/forms/d/1mQxqOm0CTQnwhcAeOYxxq2LkZxX1S-Ez2L0uwThsK2A/edit
 [5]:	https://directedstudies.yale.edu/
+[6]:	http://www.summersetreview.org/11spring/alexie02.htm
