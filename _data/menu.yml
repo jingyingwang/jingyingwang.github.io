@@ -2,32 +2,45 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: about
     url: false
     entries:
-      - title: a log of ideas encountered
-        url: false
+      - title: book reviews / nostorious
+        url: https://nostorious.wordpress.com/
       - title: github
         url: https://jingyingwang.github.io/
       - title: stuff like linkedin coming soon
-  - title: thoughts
-    post_list: true
-    url: false
-    entries: false
-  - title: another list
-    url: false
-    entries:
-      - title: with subitems
         url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
+      - title: creative writing newsletter coming soon
+        url: false
+  - title: courses
     url: false
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: fall 2020
+      entries:
+        - title: directed studies
+          url: https://directedstudies.yale.edu/
+        - title: math 230
+          url: false
+        - title: span 130
+          url: false
+  - title: books
+    url: false
+    entries:
+      - title: sept 2020; Letters to a Young Poet
+        url: false
+      - title: sept 2020; The Order of Time
+        url: false
+      - title: sept 2020; Sputnik Sweetheart
+        url: false
+  - title: movies
+    url: false
+    entries:
+      - title: Letters to a Young Poet
+        url: false
+      - title: The Order of Time
+        url: false
+      - title: Sputnik Sweetheart
         url: false
   - title: rss
     url: feed.xml
