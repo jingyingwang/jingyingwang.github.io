@@ -5,21 +5,15 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: a log of ideas encountered
         url: false
       - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
-
+        url: https://jingyingwang.github.io/
+      - title: stuff like linkedin coming soon
   - title: thoughts
     post_list: true
     url: false
     entries: false
-
-  - title: rss
-    url: feed.xml
-  
   - title: another list
     url: false
     entries:
@@ -35,3 +29,5 @@ entries:
     entries:
       - title: to edit this menu, edit _data/menu.yml file
         url: false
+  - title: rss
+    url: feed.xml
