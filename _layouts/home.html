@@ -2,6 +2,16 @@
 layout: default
 ---
 <header>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123383990-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123383990-1');
+</script>
+
   <h1>{{ site.title }}</h1>
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
