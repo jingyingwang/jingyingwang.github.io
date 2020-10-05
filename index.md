@@ -6,22 +6,8 @@ layout: home
   <summary>about</summary>
 
 - pronouns: she/her/hers
-- remotely studying college first-year
+- first-year college student, studying remotely
 - prospective math & humanities major
-</details>
-
-<details open>
-  <summary>contacts</summary>
-
-- socials
-	- email: jingyingwjy (at) gmail (dot) com
-- blogs, etc
-	- [book reviews: notorious][1]
-	- [spotify][2]
-	- [GitHub][3]
-	- linkedin, creative writing portfolio etc coming soon 
-- ongoing: [blue stockings collective][4]
-
 </details>
 
 <details open>
@@ -33,26 +19,67 @@ layout: home
 	- span 130
 </details>
 
-<details open>
-  <summary>reading</summary>
 
-- sept 2020
-	- Letters to a Young Poet
-	- The Order of Time
-	- Sputnik Sweetheart
+<details>
+  <summary>contacts</summary>
+
+- socials
+	- email: jingyingwjy (at) gmail (dot) com
+- blogs, etc
+	- [book reviews: nostorious][1]
+	- [spotify][2]
+	- [GitHub][3]
+	- linkedin, creative writing portfolio etc coming soon 
+- ongoing: [blue stockings collective][4]
+
+</details>
+
+---
+### logs of ideas
+
+<details open>
+  <summary>books</summary>
+
+
+- <details>
+  <summary>sept 2020</summary>
+
+	- the iliad 
+	- the odyssey
+	- histories, herodotus
+	- the history of the peloponnesian war 
+	- the republic
+	- five dialogues, plato
+	- if not, winter (sappho)
+	- letters to a young poet
+	- the order of time
+	- sputnik sweetheart
+  </details>
 </details>
 
 <details open>
   <summary>movies</summary>
   
-- sept 2020
+- <details>
+  <summary>sept 2020</summary>
+
 	- the passion of joan of arc (1928)
 	- grease (1978)
 	- la la land (2016)
 	- troy (2014)
 	- mulholland drive (2001)
+  </details>
 </details>
 
+<details open>
+  <summary>fragments</summary>
+  
+- <details>
+  <summary>oct 2020</summary>
+
+	- sets can be open and nopen
+  </details>
+</details>
 
 
 [1]:	https://nostorious.wordpress.com/
