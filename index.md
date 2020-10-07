@@ -39,10 +39,8 @@ layout: home
 <details open>
   <summary>books</summary>
 - <details>
-  <summary>sept 2020</summary>
-
+  <summary>oct 2020</summary>
 	- genesis & exodus
-	
   </details>
 
 - <details>
