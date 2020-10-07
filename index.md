@@ -34,11 +34,16 @@ layout: home
 </details>
 
 ---
-### logs of ideas
+### log of ideas
 
 <details open>
   <summary>books</summary>
+- <details>
+  <summary>sept 2020</summary>
 
+	- genesis & exodus
+	
+  </details>
 
 - <details>
   <summary>sept 2020</summary>
@@ -75,7 +80,13 @@ layout: home
   
 - <details>
   <summary>oct 2020</summary>
-	
+	- [On Beauty][9] by Kenneth Koch
+	- "some people are more equal than others" - Animal Farm
+	- body politic & Leviathan.
+	- Rousseau's General will vs. particular will
+	- [The Fable of the Bees][8] by Bernard Mandeville - does private vices create public virtues?
+	- [Showing my color : impolite essays on race and identity][7] by Clarence Page
+	- professional happiness not based on subject, but actions - what do I actually like to do on a day to day basis? people can be working on the same topic/subject, but the details of doing the job can be different.
 	- sets can be open and nopen
 	- Aristotle, _Politics_ Book 3.13.12: But correctness must be taken to mean “in an equal spirit”: what is [enacted] in an equal spirit is correct with a view both to the advantage of the city as a whole and to the common [advantage] of the citizens. A citizen in the common sense is one who shares in ruling and being ruled; but he differs in accordance with each regime. In the case of the best regime, he is one who is capable of and intentionally chooses being ruled and ruling with a view to the life in accordance with virtue.
 	- is moderation an extreme?
@@ -90,3 +101,6 @@ layout: home
 [4]:	https://docs.google.com/forms/d/1mQxqOm0CTQnwhcAeOYxxq2LkZxX1S-Ez2L0uwThsK2A/edit
 [5]:	https://directedstudies.yale.edu/
 [6]:	http://www.summersetreview.org/11spring/alexie02.htm
+[7]:	https://archive.org/details/showingmycolorim00page/page/n11/mode/2up
+[8]:	https://en.wikipedia.org/wiki/The_Fable_of_the_Bees
+[9]:	https://www.poetryfoundation.org/poetrymagazine/browse?contentId=33083
