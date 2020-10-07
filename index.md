@@ -38,8 +38,10 @@ layout: home
 
 <details open>
   <summary>books</summary>
+	
 - <details>
   <summary>oct 2020</summary>
+	
 	- genesis & exodus
   </details>
 
@@ -78,6 +80,7 @@ layout: home
   
 - <details>
   <summary>oct 2020</summary>
+	
 	- [On Beauty][9] by Kenneth Koch
 	- "some people are more equal than others" - Animal Farm
 	- body politic & Leviathan.
