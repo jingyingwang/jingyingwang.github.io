@@ -42,6 +42,8 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
+	- oresteia
+	- aristotle's politics
 	- genesis & exodus
   </details>
 
@@ -63,6 +65,14 @@ layout: home
 
 <details open>
   <summary>movies</summary>
+	
+- <details>
+  <summary>oct 2020</summary>
+	
+	- bob's burgers season 11 (2021)
+	- the social network (2010)
+	- the social dilemma (2020)
+  </details>
   
 - <details>
   <summary>sept 2020</summary>
@@ -81,6 +91,9 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
+	- living as metics
+	- "and as for the future, you will learn of it when it comes." - oresteia
+	- collaborative notes for a stem class?
 	- [On Beauty][9] by Kenneth Koch
 	- "some people are more equal than others" - Animal Farm
 	- body politic & Leviathan.
