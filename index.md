@@ -42,8 +42,11 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
+	- the rise of rome (livy)
+	- bacchae
+	- antigone 
 	- oresteia
-	- aristotle's politics
+	- aristotle's politics, physics, metaphysics, de anima
 	- genesis & exodus
   </details>
 
@@ -91,6 +94,10 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
+	- utopic pessimism
+	- Historia magistra vitae est - Cicero
+	- Euripides writes about foreigners as weirdly powerful people - is it praise or xenophobia?
+	- zoom theatre dilemma: what do you do when you're not talking? how do you react when your body language is fragmented and incomplete? what happens when we are delayed?
 	- living as metics
 	- "and as for the future, you will learn of it when it comes." - oresteia
 	- collaborative notes for a stem class?
