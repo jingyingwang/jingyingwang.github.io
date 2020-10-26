@@ -42,6 +42,8 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
+	- 
+	- rise of the roman empire (polybius)
 	- the rise of rome (livy)
 	- bacchae
 	- antigone 
@@ -72,7 +74,8 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
-	- bob's burgers season 11 (2021)
+	- borat 2 (2020)
+	- bob's burgers season 11 (2020)
 	- the social network (2010)
 	- the social dilemma (2020)
   </details>
@@ -94,6 +97,11 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
+	- dreams vs ambitions
+	- let’s pretend to be ancient
+	- anacyclosis
+	- do we come here for becoming or unbecoming?
+	- sequential continuity is interesting when cauchy
 	- utopic pessimism
 	- Historia magistra vitae est - Cicero
 	- Euripides writes about foreigners as weirdly powerful people - is it praise or xenophobia?
