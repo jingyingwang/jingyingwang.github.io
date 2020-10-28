@@ -19,12 +19,12 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background-color: white; }
+html, body { background-color: #f3f2ed; }
 
 html { height: 100%; }
 
 body {
-  color: rgb(0, 0, 36);
+  color: #0f4d92;
   font-family: 'Cardo', serif;
   font-size: 1.3rem;
   line-height: 1.3;
@@ -58,13 +58,13 @@ hr {
 
 table, th, td {
   width: 100%;
-  border: thin solid black;
+  border: thin solid #0f4d92;
   border-collapse: collapse;
   padding: 0.4rem;
 }
 
 code {
-  color: white;
+  color: #f3f2ed;
   background-color: black;
 }
 
@@ -76,7 +76,7 @@ div.highlighter-rouge code {
 
 blockquote {
   font-style: italic;
-  border: thin solid black;
+  border: thin solid #0f4d92;
   padding: 1rem;
 
   p { margin: 0; }
@@ -89,7 +89,7 @@ img {
 }
 
 .collapsible {
-  background-color: white;
+  background-color: #f3f2ed;
   color: black;
   cursor: pointer;
   width: 100%;
@@ -99,12 +99,12 @@ img {
 }
 
 .active, .collapsible:hover {
-  background-color:white;
+  background-color:#f3f2ed;
 }
 
 .content {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: white;
+  background-color: #f3f2ed;
 }
