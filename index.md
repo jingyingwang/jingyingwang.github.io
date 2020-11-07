@@ -42,7 +42,9 @@ layout: home
 - <details>
   <summary>oct 2020</summary>
 	
-	- 
+	- outlines of skepticism
+	- the aeneid
+	- caesar (plutarch)
 	- rise of the roman empire (polybius)
 	- the rise of rome (livy)
 	- bacchae
@@ -93,6 +95,19 @@ layout: home
 
 <details open>
   <summary>fragments</summary>
+
+- <details >
+  <summary>nov 2020</summary>
+	
+	- [American Sonnet for My Past and Future Assassin][10] by Terrance Hayes
+	- dido vs sappho
+	- chisme
+	- structure without ideology
+	- pre-social because it's pre-moral?
+	- in Rome, new crises create new offices
+	- ataraxia: peace of mind
+	- “dutiful” aeneas - needs to find a duty to.
+	- legitimacy is crucial to any regime
   
 - <details>
   <summary>oct 2020</summary>
@@ -133,3 +148,4 @@ layout: home
 [7]:	https://archive.org/details/showingmycolorim00page/page/n11/mode/2up
 [8]:	https://en.wikipedia.org/wiki/The_Fable_of_the_Bees
 [9]:	https://www.poetryfoundation.org/poetrymagazine/browse?contentId=33083
+[10]:	https://www.poetryfoundation.org/poetrymagazine/poems/143917/american-sonnet-for-my-past-and-future-assassin-598dc83c976f1
