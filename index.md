@@ -40,6 +40,24 @@ layout: home
   <summary>books</summary>
 	
 - <details>
+  <summary>nov 2020</summary>
+	
+	- city of god
+	- annals of imperial rome (tacitus)
+	- the political regime (alfarabi)
+	- guide of the perplexed (maimonides)
+	- treatise on law (aquinas)
+	- on the free choice of will
+	- proslogion (anselm)
+	- summa theologiae (aquinas) 
+	- hayy ibn yaqzan
+	- ovid's metamorphosis
+	- the new testament: matthew, romans
+	- inferno (dante) 
+	- relato de un náufrago
+  </details>
+	
+- <details>
   <summary>oct 2020</summary>
 	
 	- outlines of skepticism
@@ -72,6 +90,14 @@ layout: home
 
 <details open>
   <summary>movies</summary>
+	
+- <details>
+  <summary>nov 2020</summary>
+	
+	- adventure time
+	- glee 
+	- coraline
+  </details>
 	
 - <details>
   <summary>oct 2020</summary>
