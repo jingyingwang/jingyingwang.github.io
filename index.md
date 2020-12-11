@@ -148,12 +148,6 @@ layout: home
 	- ataraxia: peace of mind
 	- “dutiful” aeneas - needs to find a duty to.
 	- legitimacy is crucial to any regime
-	- fun as propellent
-	- standing inquisition
-	- are personal politics excusable?
-	- descriptive vs normative claims
-	- edward said, and becoming him
-  
 - <details>
   <summary>oct 2020</summary>
 	
