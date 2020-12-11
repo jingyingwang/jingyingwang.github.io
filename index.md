@@ -7,6 +7,7 @@ layout: home
 - pronouns: she/her/hers
 - first-year college student, studying remotely
 - prospective math & humanities major
+- [tell me what to read/listen/watch next][12]
 </details>
 
 <details open>
@@ -29,7 +30,6 @@ layout: home
 	- [spotify][2]
 	- [GitHub][3]
 	- linkedin, creative writing portfolio etc coming soon 
-- [tell me what to read/listen/watch next][12]
 
 </details>
 
