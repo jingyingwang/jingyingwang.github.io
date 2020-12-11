@@ -132,6 +132,7 @@ layout: home
 	- edward said, and becoming him
 	- [On Liking Women][11] by Andrea Long Chu
 	- on making a life for oneself
+	- secular/romantic love vs divine love, form and substance
 	- thoreau's mom did his laundry and made him food at walden
 	- carsick cars!
 
