@@ -29,7 +29,7 @@ layout: home
 	- [spotify][2]
 	- [GitHub][3]
 	- linkedin, creative writing portfolio etc coming soon 
-- ongoing: [blue stockings collective][4]
+- [tell me what to read/listen/watch next][12]
 
 </details>
 
@@ -121,6 +121,19 @@ layout: home
 
 <details open>
   <summary>fragments</summary>
+	
+- <details >
+  <summary>dec 2020</summary>
+	
+	- fun as propellent
+	- standing inquisition
+	- are personal politics excusable?
+	- descriptive vs normative claims
+	- edward said, and becoming him
+	- [On Liking Women][11] by Andrea Long Chu
+	- on making a life for oneself
+	- thoreau's mom did his laundry and made him food at walden
+	- carsick cars!
 
 - <details >
   <summary>nov 2020</summary>
@@ -134,6 +147,11 @@ layout: home
 	- ataraxia: peace of mind
 	- “dutiful” aeneas - needs to find a duty to.
 	- legitimacy is crucial to any regime
+	- fun as propellent
+	- standing inquisition
+	- are personal politics excusable?
+	- descriptive vs normative claims
+	- edward said, and becoming him
   
 - <details>
   <summary>oct 2020</summary>
@@ -175,3 +193,5 @@ layout: home
 [8]:	https://en.wikipedia.org/wiki/The_Fable_of_the_Bees
 [9]:	https://www.poetryfoundation.org/poetrymagazine/browse?contentId=33083
 [10]:	https://www.poetryfoundation.org/poetrymagazine/poems/143917/american-sonnet-for-my-past-and-future-assassin-598dc83c976f1
+[11]:	https://nplusonemag.com/issue-30/essays/on-liking-women/
+[12]:	https://docs.google.com/spreadsheets/d/13mIkZzoASYkVcNxqBXaccDDf96R3wMZLbVHI57uphxc/edit?usp=sharing
