@@ -89,11 +89,20 @@ layout: home
 </details>
 
 <details open>
-  <summary>movies</summary>
+  <summary>watched</summary>
+	
+- <details>
+  <summary>dec 2020</summary>
+	
+	- carsick cars
+  </details>
 	
 - <details>
   <summary>nov 2020</summary>
 	
+	- zizek vs peterson debate
+	- 脏手指
+	- sleep no more (sh)
 	- adventure time
 	- glee 
 	- coraline
