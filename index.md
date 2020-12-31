@@ -40,6 +40,14 @@ layout: home
   <summary>books</summary>
 	
 - <details>
+  <summary>dec 2020</summary>
+	
+	- purgatorio (dante) 
+	- paradiso (dante) 
+	- on the nature of things (lucretius)
+  </details>
+	
+- <details>
   <summary>nov 2020</summary>
 	
 	- city of god
@@ -95,6 +103,9 @@ layout: home
   <summary>dec 2020</summary>
 	
 	- carsick cars
+	- hades (2020)
+	- the portal series
+	- soul (2020)
   </details>
 	
 - <details>
@@ -134,9 +145,14 @@ layout: home
 - <details >
   <summary>dec 2020</summary>
 	
+	- [Taking Humanity Seriously][13] by Jennifer A. Frey
+	- "but there's no sense crying over every mistake, you just keep on trying till you run out of cake."
+	- Weil's and Murdoch's un-selfing
+	- existence as mutual parodies
+	- is inclusion exclusion? 
 	- fun as propellent
 	- standing inquisition
-	- are personal politics excusable?
+	- divine comedy as an imperative for the education of desire
 	- descriptive vs normative claims
 	- edward said, and becoming him
 	- [On Liking Women][11] by Andrea Long Chu
@@ -199,3 +215,4 @@ layout: home
 [10]:	https://www.poetryfoundation.org/poetrymagazine/poems/143917/american-sonnet-for-my-past-and-future-assassin-598dc83c976f1
 [11]:	https://nplusonemag.com/issue-30/essays/on-liking-women/
 [12]:	https://docs.google.com/spreadsheets/d/13mIkZzoASYkVcNxqBXaccDDf96R3wMZLbVHI57uphxc/edit?usp=sharing
+[13]: 	http://farefwd.com/index.php/2020/09/30/taking-humanity-seriously/
