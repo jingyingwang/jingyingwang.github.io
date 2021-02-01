@@ -5,19 +5,23 @@ layout: home
   <summary>about</summary>
 
 - pronouns: she/her/hers
-- first-year college student, studying remotely
+- first-year college student, on leave
 - prospective math & humanities major
-- [tell me what to read/listen/watch next][12]
-</details>
+  </details>
 
 <details open>
   <summary>courses</summary>
 
 - fall 2020
-	- [directed studies][5]
+	- [directed studies][2]
 	- math 230
 	- span 130
-</details>
+- spring 2020 (leave of absence)
+	- [cs50][3]
+	
+	- courses in math, cpsc, s&ds 
+
+	  </details>
 
 
 <details>
@@ -26,9 +30,9 @@ layout: home
 - socials
 	- email: jingyingwjy (at) gmail (dot) com
 - blogs, etc
-	- [book reviews: nostorious][1]
-	- [spotify][2]
-	- [GitHub][3]
+	- [book reviews: nostorious][4]
+	- [spotify][5]
+	- [GitHub](https://github.com/jingyingwang/)
 	- linkedin, creative writing portfolio etc coming soon 
 
 </details>
@@ -38,18 +42,45 @@ layout: home
 
 <details open>
   <summary>books</summary>
+
+- <details>
+  <summary>jan 2021</summary>
+
+	- lysistrata (aristophanes)
 	
+	- rime sparse (petrarch)
+	
+	- orientalism (edward said)
+  
+  - revolution of the heart: a genealogy of love in china, 1900-1950 (haiyan lee)
+    
+  - giovanni's room (james baldwin)
+  
+  - the song of achilles (madeline miller)
+  
+  - the picture of dorian gray (oscar wilde)
+  
+  - don quixote part 1 (cervantes)
+  
+  - twilight of the idols (nietzsche)
+  
+  - ecce homo (nietzsche)
+  
+  - circe (madeline miller)
+  
+    </details>
+  
 - <details>
   <summary>dec 2020</summary>
-	
+
 	- purgatorio (dante) 
 	- paradiso (dante) 
 	- on the nature of things (lucretius)
   </details>
-	
+
 - <details>
   <summary>nov 2020</summary>
-	
+
 	- city of god
 	- annals of imperial rome (tacitus)
 	- the political regime (alfarabi)
@@ -64,10 +95,10 @@ layout: home
 	- inferno (dante) 
 	- relato de un náufrago
   </details>
-	
+
 - <details>
   <summary>oct 2020</summary>
-	
+
 	- outlines of skepticism
 	- the aeneid
 	- caesar (plutarch)
@@ -98,19 +129,32 @@ layout: home
 
 <details open>
   <summary>watched</summary>
-	
+
+- <details>
+  <summary>jan 2021</summary>
+
+	- the pursuit of happyness
+	- moonlight (2016)
+	- half-life 2
+	- over the moon (2020)
+	- bandersnatch 
+	- the half of it
+	- booksmart
+	- carol
+    </details>
+
 - <details>
   <summary>dec 2020</summary>
-	
+
 	- carsick cars
 	- hades (2020)
 	- the portal series
 	- soul (2020)
   </details>
-	
+
 - <details>
   <summary>nov 2020</summary>
-	
+
 	- zizek vs peterson debate
 	- 脏手指
 	- sleep no more (sh)
@@ -118,10 +162,10 @@ layout: home
 	- glee 
 	- coraline
   </details>
-	
+
 - <details>
   <summary>oct 2020</summary>
-	
+
 	- borat 2 (2020)
 	- bob's burgers season 11 (2020)
 	- the social network (2010)
@@ -141,10 +185,27 @@ layout: home
 
 <details open>
   <summary>fragments</summary>
+
+- <details >
+  <summary>jan 2021</summary>
+
+	- My Beautiful Laundrette (dir. Stephen Frears, 1985)
+	- Roach: ‘‘clandestine countermemories’’ that bring into the present the pasts that are deliberately forgotten
+	- Avicenna
+	- Schopenhauer's criticism of desire
+	- Betteridge's law of headlines
+	- paralanguages
+	- Arendt on modernity: worldlessness, the lack of a public forum. Modernism is the alienation of the world; not the alienation of the self. 
+	- [ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem), [identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
+	- attention allocation problems
+	- hegel on euthyphro
+	- phobic vs philic
+	- being alienated by the culture that produced oneself
+	- Baldwin, _Giovanni's Room_ : "What is this thing about time? Why is it better to be late than early? People are always saying, we must wait, we must wait. what are they waiting for?...And when you have waited—-has it made you sure?” ... “Perhaps, as we say in America, I wanted to find myself. This is an interesting phrase, not current as far as I know in the language of any other people, which certainly does not mean what it says but betrays a nagging suspicion that something has been misplaced. I think now that if I had any intimation that the self I was going to find would turn out to be only the same self from which I had spent so much time in flight, I would have stayed at home.” 
 	
 - <details >
   <summary>dec 2020</summary>
-	
+
 	- [Taking Humanity Seriously][13] by Jennifer A. Frey
 	- "but there's no sense crying over every mistake, you just keep on trying till you run out of cake."
 	- Weil's and Murdoch's un-selfing
@@ -163,7 +224,7 @@ layout: home
 
 - <details >
   <summary>nov 2020</summary>
-	
+
 	- [American Sonnet for My Past and Future Assassin][10] by Terrance Hayes
 	- dido vs sappho
 	- chisme
@@ -175,7 +236,7 @@ layout: home
 	- legitimacy is crucial to any regime
 - <details>
   <summary>oct 2020</summary>
-	
+
 	- dreams vs ambitions
 	- let’s pretend to be ancient
 	- anacyclosis
@@ -203,11 +264,11 @@ layout: home
 </details>
 
 
-[1]:	https://nostorious.wordpress.com/
-[2]:	https://open.spotify.com/user/s3s8huo8u5tdc4r2qmnymyw4y
-[3]:	https://jingyingwang.github.io/
-[4]:	https://docs.google.com/forms/d/1mQxqOm0CTQnwhcAeOYxxq2LkZxX1S-Ez2L0uwThsK2A/edit
-[5]:	https://directedstudies.yale.edu/
+[1]:	https://docs.google.com/spreadsheets/d/13mIkZzoASYkVcNxqBXaccDDf96R3wMZLbVHI57uphxc/edit?usp=sharing
+[2]:	https://directedstudies.yale.edu/
+[3]:	https://cs50.harvard.edu/
+[4]:	https://nostorious.wordpress.com/
+[5]:	https://open.spotify.com/user/s3s8huo8u5tdc4r2qmnymyw4y
 [6]:	http://www.summersetreview.org/11spring/alexie02.htm
 [7]:	https://archive.org/details/showingmycolorim00page/page/n11/mode/2up
 [8]:	https://en.wikipedia.org/wiki/The_Fable_of_the_Bees
