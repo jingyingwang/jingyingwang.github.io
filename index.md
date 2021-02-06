@@ -42,32 +42,23 @@ layout: home
 
 <details open>
   <summary>books</summary>
+	
+
 
 - <details>
   <summary>jan 2021</summary>
 
 	- lysistrata (aristophanes)
-	
 	- rime sparse (petrarch)
-	
-	- orientalism (edward said)
-  
-  - revolution of the heart: a genealogy of love in china, 1900-1950 (haiyan lee)
-    
-  - giovanni's room (james baldwin)
-  
-  - the song of achilles (madeline miller)
-  
-  - the picture of dorian gray (oscar wilde)
-  
-  - don quixote part 1 (cervantes)
-  
-  - twilight of the idols (nietzsche)
-  
-  - ecce homo (nietzsche)
-  
-  - circe (madeline miller)
-  
+	- orientalism (edward said
+	- revolution of the heart: a genealogy of love in china, 1900-1950 (haiyan lee)
+	- giovanni's room (james baldwin)
+  	- the song of achilles (madeline miller)
+	- the picture of dorian gray (oscar wilde)
+	- don quixote part 1 (cervantes)
+	- twilight of the idols (nietzsche)
+	- ecce homo (nietzsche)
+	- circe (madeline miller)
     </details>
   
 - <details>
