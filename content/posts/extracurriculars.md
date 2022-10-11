@@ -4,7 +4,6 @@ date: 2022-07-19T17:26:58+01:00
 categories: ["note"]
 tags:
 
-
 ---
 
 **Student Organizations**
@@ -13,16 +12,16 @@ tags:
 - [Yale Political Union](https://ypu.sites.yale.edu/): Vice President (2022), Treasurer (2021-22)
 - [Salus Populi Foundation](https://www.saluspopulifoundation.com/): Founding Board Member (2022-23)
 - [Yale Undergraduate Quantum Computing Club](https://yaleqc.com/): Founding Board Member, Director of Invited Talks (2021)
-- [Yale Radio](https://wybc.com/): Radio Show Host (2022-23)
+- [Yale Radio](https://wybc.com/): Radio Show Host @ [Fallout: New Haven](https://wybc.com/shows/three-body-problem) (2022-23)
 
-**Research**
+** **
+
+**Work & Research**
 
 - [Lowenstein Project @ Yale Law School](https://law.yale.edu/schell/get-involved/lowenstein-project): Student Researcher (2022-23)
-
-- Yale Department of Political Science: Research Assistant in International Security (2021-22)
-
+- [Yale Department of Political Science](https://politicalscience.yale.edu/): Research Assistant in International Security (2021-22)
 - [YSArch Lab](https://ysarch.csl.yale.edu/): Undergraduate Researcher (2020-21)
-
-  
-
-  
+- [Yale Directed Studies](https://directedstudies.yale.edu/): Undergraduate Learning Assistant (2021-22); DS Community Award (2021)
+- [The Yale Review](https://yalereview.org/): Volunteer Reader (2022-23)
+- [Bass/Sterling Library](https://library.yale.edu/): Front Desk (2022)
+- [Yale Film Archive](https://web.library.yale.edu/film): Student Assistant (2022)
