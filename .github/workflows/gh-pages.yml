@@ -1,48 +1,32 @@
-name: Build and Deploy
+name: github pages
 
 on:
-  schedule:
-    - cron: '42 13 * * *'
   push:
     branches:
-      - master
-
-env:
-  TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  HUGO_ARGS: "--minify --environment production"
+      - main  # Set a branch to deploy
+  pull_request:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
+  deploy:
+    runs-on: ubuntu-22.04
     steps:
-      - name: 🛎 Check out master
-        uses: actions/checkout@master
+      - uses: actions/checkout@v3
         with:
-          fetch-depth: 1
-      - name: 🚧 Check for configuration file
-        run: |
-          if [ -f "./config.toml" ]; then
-              echo "CONFIG_EXISTS=1" >> $GITHUB_ENV
-              echo "Hugo TOML configuration file found."
-          elif [ -f "./config.yaml" ]; then
-              echo "CONFIG_EXISTS=1" >> $GITHUB_ENV
-              echo "Hugo YAML configuration file found."
-          elif [ -f "./config.json" ]; then
-              echo "CONFIG_EXISTS=1" >> $GITHUB_ENV
-              echo "Hugo JSON configuration file found."
-          else
-              echo "🛑 No valid Hugo configuration file found."
-          fi
-        # Build and push the generated site to the repository
-      - name: 🚀 Build and deploy to GitHub Pages
-        uses: victoriadrake/hugo-latest-cd@master
-        if: env.CONFIG_EXISTS
-        # And deploy to Neocities
-      - name: 🐈 Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@master
-        if: ${{ env.NEOCITIES_API_TOKEN }}
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          cleanup: false
-          dist_dir: docs
+          hugo-version: 'latest'
+          # extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
