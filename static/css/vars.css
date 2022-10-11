@@ -1,0 +1,72 @@
+/* COLORS
+Change your colors and sizes of things here.
+Probability of breaking layout: 10%
+*/
+
+@media (prefers-color-scheme: light) {
+    :root {
+      /* Change me */
+        --accent: #272c52;
+        --color-primary: #24292e;
+        --color-secondary: rgb(100, 100, 100);
+        --color-bg: white;
+        --item-bg: #f5f5f5;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+      /* Change me */
+        --accent: #272c52;
+        --color-primary: #24292e;
+        --color-secondary: rgb(100, 100, 100);
+        --color-bg: white;
+        --item-bg: #f5f5f5;
+    }
+}
+
+:root {
+    --scrollbar-bg: var(--color-bg);
+    --scrollbar-thumb: var(--color-secondary);
+    --shadow-shape: 2px 5px 8px;
+    --color-shadow: rgba(0, 0, 0, .1);
+    --border-radius: 6px;
+}
+
+/* SHAPES AND SIZES */
+
+:root {
+    --content-width: 40rem;
+    --content-margin: 1.5rem;
+    --content-padding: 1.5rem;
+    --item-margin: 0;
+}
+
+@media (max-width: 375px) {
+  :root {
+      --scale: 0.8;
+      --content-width: 90%;
+  }
+}
+
+@media (max-width: 414px) {
+    :root {
+        --scale: 0.9;
+        --content-width: 100%;
+        --content-margin: 0.5rem;
+        --content-padding: 1rem;
+        --item-margin: 0.5rem;
+    }
+}
+
+@media (min-width: 460px) {
+    :root {
+        --scale: 1;
+    }
+}
+
+@media (min-width: 1000px) {
+    :root {
+        --scale: 1.1;
+    }
+}

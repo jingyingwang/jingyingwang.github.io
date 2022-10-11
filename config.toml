@@ -1,0 +1,51 @@
+# Your full site URL. Example:
+# "https://<username>.neocities.org/"
+baseURL = "https://jingyingwang.github.io/"
+languageCode = "en-us"
+# Title of your site
+title = "Jingying (Jean) Wang"
+# How many feed entries to load at once
+paginate = 12
+
+[taxonomies]
+tag = "tags"
+
+[author]
+name = "Jingying (Jean) Wang" # Your online name
+# Your profile image. External link or relative to static/. Examples:
+# "https://imgur.com/123456788"
+# "image/me.webp"
+image = "profileimage.jpg"
+about = "i am studying math and other things at yale university"
+
+[params]
+# Name of a file in static/skins/ without the ".css" extension
+skin = "macintosh"
+
+#
+# Totally optional cool stuff (see README for details)
+#
+ socialImage = "profileimage.jpg" # site image for rich embeds
+# customCSS = "css/style.css" # relative to ./static/
+# plausible = true
+# paymentPointer = "$wallet.provider.com/myspecialid123"
+# webmentionUrl = "https://webmention.io/example/webmention"
+# pingbackUrl = "https://webmention.io/example/xmlrpc"
+# micropubUrl = "https://example.com/.netlify/functions/micropub"
+# microsubUrl = "https://aperture.p3k.io/microsub/example"
+
+#
+# For IndieAuth and the author card
+#
+ githubuser = "jingyingwang"
+ twitteruser = "jingyingwang_" # no @ in front
+ linkedinuser = "jingyingwang"
+# mastodon = "https://mastodon.technology/@chihiro" # full link to your instance profile
+
+[permalinks]
+# Format for feed entry links. You probably don't need to change this.
+feed = "/:title/"
+
+[outputs]
+# Output formats for your feed. You probably don't need to change this.
+  home = ["HTML", "JSON", "RSS"]
