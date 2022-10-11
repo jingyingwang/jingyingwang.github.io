@@ -1,6 +1,6 @@
 ---
 title: courses
-date: 2022-07-20T17:26:58+01:00
+date: 2022-07-14T17:26:58+01:00
 categories: ["note"]
 tags:
 
