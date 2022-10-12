@@ -4,17 +4,17 @@ Made by Victoria Drake
 
 @media (prefers-color-scheme: light) {
      :root {
-        --color-bg: linear-gradient(0deg, #f470de, #9de6f9);
+        --color-bg: linear-gradient(0deg, #f470de, #FFC99D);
         --item-bg: #f5f5f5;
-        --accent: #f21cf1;
+        --accent: #E207BE;
     }
 }
 
 @media (prefers-color-scheme: dark) {
      :root {
-        --color-bg: linear-gradient(0deg, #f470de, #9de6f9);
+        --color-bg: linear-gradient(0deg, #f470de, #FFC99D);
         --item-bg: #f5f5f5;
-        --accent: #f21cf1;
+        --accent: #E207BE;
     }
 }
 
@@ -27,15 +27,46 @@ Made by Victoria Drake
 }
 
 @font-face {
+    font-family: Cardo;
+    src: url(/fonts/Cardo-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Cardo;
+    src: url(/fonts/Cardo-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: Cardo;
+    src: url(/fonts/Cardo-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
     font-family: Macintosh;
     src: url(/fonts/mac.ttf);
 }
 
+
 body {
-    font-family: Macintosh, -apple-system, BlinkMacSystemFont, monospace !important;
+    font-family: Cardo !important;
+    letter-spacing: 0.1px;
     font-size: 14px !important;
     background: var(--color-bg);
 }
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Macintosh !important;
+}
+
 
 header>div {
     max-width: 100vw;
@@ -125,7 +156,7 @@ div#author>img#author-img {
     padding-left: 10px;
     padding-bottom: 10px;
     z-index: 1;
-    color: var(--item-bg);
+    color: rgba(var(--item-bg), 0.8);
     border: var(--mac-border) !important;
     background: repeating-linear-gradient(var(--item-bg), var(--item-bg) 4px, black 4px, black 6px);
     overflow: hidden;
@@ -133,7 +164,7 @@ div#author>img#author-img {
 
 .feed__content {
     box-shadow: var(--shadow-shape) var(--color-shadow), inset 0px 0px 4px black;
-    background-color: var(--item-bg);
+    background-color: rgba(var(--item-bg), 0.8);
     border: var(--mac-border) !important;
     border-radius: var(--border-radius);
     position: relative;
