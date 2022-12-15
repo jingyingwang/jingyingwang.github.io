@@ -8,8 +8,8 @@ tags:
 
 **Student Organizations**
 
+- [Yale Political Union](https://ypu.sites.yale.edu/): President (2023), Vice President (2022), Treasurer (2021-22)
 - [Yale Daily News](https://yaledailynews.com/blog/author/jeanwang/): Opinion Editor & President of the Editorial Board (2022-23), Opinion Staff Columnist (2021-22)
-- [Yale Political Union](https://ypu.sites.yale.edu/): Vice President (2022), Treasurer (2021-22)
 - [Salus Populi Foundation](https://www.saluspopulifoundation.com/): Founding Board Member (2022-23)
 - [Yale Undergraduate Quantum Computing Club](https://yaleqc.com/): Founding Board Member, Director of Invited Talks (2021)
 - [Yale Radio](https://wybc.com/): Radio Show Host @ [Fallout: New Haven](https://wybc.com/shows/three-body-problem) (2022-23)
