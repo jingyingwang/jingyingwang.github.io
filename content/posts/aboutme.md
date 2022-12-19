@@ -9,6 +9,7 @@ color: blue
 * pronouns: she/they
 * junior at yale college
 * math and english major 
+* 📍 new haven, ct
 
 ## contacts
 
