@@ -14,6 +14,8 @@ tags:
 * ECON 351 Mathematical Economics: Game Theory
 * MATH 350 Introduction to Abstract Algebra
 * MATH 270 Set Theory
+* MATH 305 Analysis 2: Lebesgue Integration and Fourier Series
+* PHIL 427 Computability and Logic 
 
 **courses in english**
 
@@ -23,6 +25,9 @@ tags:
 * HIST 299J Intellectuals & Power in Europe
 * ENGL 125 Readings in English Poetry I
 * ENGL 386 Queer Writing Before Stonewall
+* ENGL 128 Readings in Comparative World English Literatures
+* ENGL 526 History and Theory of the Lyric, Medieval and Modern
+* ENGL 597 Writing Identity
 
 **other courses**
 
