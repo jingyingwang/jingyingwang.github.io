@@ -11,6 +11,15 @@ color: blue
 * math and english major 
 * 📍 new haven, ct
 
+## interests
+
+* **math**: group theory, graph theory, post-quantum cryptography
+* **english&lit**: postcolonial & queer theories of literature, lyric poetry, archival research, classics, Chinese literature
+* **technology**: quantum computing, quantum neuroscience, digital ontology & governance, internet history
+* **theory**: phenomenology, political theory, critical theory, communication theory
+* **others**: publishing, radio, film
+* [linkedin](https://www.linkedin.com/in/jingyingwang/)
+
 ## contacts
 
 * email: jean.wang (at) yale (dot) edu
