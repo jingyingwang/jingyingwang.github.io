@@ -14,11 +14,10 @@ color: blue
 ## interests
 
 * **math**: group theory, graph theory, post-quantum cryptography
-* **english&lit**: postcolonial & queer theories of literature, lyric poetry, archival research, classics, Chinese literature
+* **english&lit**: postcolonial theory, queer theory, lyric poetry, manuscripts, classics, Chinese literature
 * **technology**: quantum computing, quantum neuroscience, digital ontology & governance, internet history
 * **theory**: phenomenology, political theory, critical theory, communication theory
 * **others**: publishing, radio, film
-* [linkedin](https://www.linkedin.com/in/jingyingwang/)
 
 ## contacts
 
