@@ -25,3 +25,9 @@ tags:
 - [The Yale Review](https://yalereview.org/): Volunteer Reader (2022-23)
 - [Bass/Sterling Library](https://library.yale.edu/): Front Desk (2022)
 - [Yale Film Archive](https://web.library.yale.edu/film): Student Assistant (2022)
+
+** **
+
+**Projects**
+
+- ["in every world, a home": a queer chinese folklores zine](https://raw.githubusercontent.com/jingyingwang/jingyingwang.github.io/main/content/posts/Screen%20Shot%202023-03-07%20at%2012.16.34%20AM.png) exhibition
