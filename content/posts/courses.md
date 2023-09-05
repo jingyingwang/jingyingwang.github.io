@@ -15,7 +15,9 @@ tags:
 * MATH 350 Introduction to Abstract Algebra
 * MATH 270 Set Theory
 * MATH 305 Analysis 2: Lebesgue Integration and Fourier Series
-* PHIL 427 Computability and Logic 
+* PHIL 427 Computability and Logic
+* MATH 330 Advanced Probability
+* MATH 345 Modern Combinatorics
 
 **courses in english**
 
@@ -28,6 +30,8 @@ tags:
 * ENGL 128 Readings in Comparative World English Literatures
 * ENGL 526 History and Theory of the Lyric, Medieval and Modern
 * ENGL 597 Writing Identity
+* ENGL 490 The Senior Essay (Supervised by Michael Warner)
+* ENGL 487 Tutorial in Writing (Supervised by Emily Skillings)
 
 **other courses**
 
@@ -41,6 +45,8 @@ tags:
 - PHIL 204 Kant's Critique of Pure Reason
 - PLSC 111 Intro to International Relations
 - S&DS S230E Data Exploration and Analysis
+- PHIL 202 Existentialism
+- CPSC 447 Introduction to Quantum Computing
 
 **courses outside of yale**
 
