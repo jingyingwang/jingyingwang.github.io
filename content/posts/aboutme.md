@@ -16,11 +16,13 @@ color: blue
 
 * **math**: group theory, graph theory, post-quantum cryptography
 * **english&lit**: postcolonial theory, queer theory, lyric poetry, manuscripts, classics, Chinese literature
-* **technology**: quantum computing, quantum neuroscience, digital ontology & governance, internet history
+* **finance**: quantamental trading, portfolio strategy, portfolio optimization, factor investing
+* **technology**: quantum computing, quantum neuroscience,
+* **media studies**: digital ontology & governance, internet history
 * **theory**: phenomenology, political theory, critical theory, communication theory
-* **others**: publishing, radio, film
+* **others**: publishing, editing, radio, film
 
-## contacts
+## contact
 
 * email: jean.wang (at) yale (dot) edu
 * [twitter](https://twitter.com/jingyingwang_)
