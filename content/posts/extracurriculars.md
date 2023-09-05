@@ -29,6 +29,7 @@ tags:
 
 ** **
 
-**Projects**
+**Writing & Other Projects**
 
 - ["in every world, a home": a queer chinese folklores zine](https://raw.githubusercontent.com/jingyingwang/jingyingwang.github.io/main/content/posts/Screen%20Shot%202023-03-07%20at%2012.16.34%20AM.png) exhibition
+- poems in [DIAGRAM](https://www.thediagram.com/) and [no, dear](http://www.nodearmagazine.com/) 
