@@ -7,7 +7,7 @@ color: blue
 ---
 
 * pronouns: they/them
-* junior at yale college
+* senior at yale college
 * math and english major 
 * 📍 new haven, ct
 
