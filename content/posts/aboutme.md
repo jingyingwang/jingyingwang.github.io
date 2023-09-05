@@ -8,7 +8,7 @@ color: blue
 
 * pronouns: they/them
 * senior at yale college
-* math and English major
+* math and english major
 * 🏠 from suzhou, china
 * 📍 currently new haven, ct
 
