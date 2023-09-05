@@ -18,7 +18,8 @@ tags:
 
 **Work & Research**
 
-- [Lowenstein Project @ Yale Law School](https://law.yale.edu/schell/get-involved/lowenstein-project): Student Researcher (2022-23)
+- [D. E. Shaw Investment Management](https://www.deshaw.com/): Trading & Portfolio Strategy Intern (2023)
+- [Yale Math Department](https://math.yale.edu/): Grader (2021-2022, 2023-2024)
 - [Yale Department of Political Science](https://politicalscience.yale.edu/): Research Assistant in International Security (2021-22)
 - [YSArch Lab](https://ysarch.csl.yale.edu/): Undergraduate Researcher (2020-21)
 - [Yale Directed Studies](https://directedstudies.yale.edu/): Undergraduate Learning Assistant (2021-22); DS Community Award (2021)
