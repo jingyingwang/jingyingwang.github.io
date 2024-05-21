@@ -1,5 +1,5 @@
 ---
-title: about me
+title: life updates
 date: 2022-08-19T17:26:58+01:00
 categories: ["note"]
 tags:
