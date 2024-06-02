@@ -16,7 +16,7 @@ name = "Jingying (Jean) Wang" # Your online name
 # "https://imgur.com/123456788"
 # "image/me.webp"
 image = "profileimage.jpg"
-about = "i am studying math and other things at yale university"
+about = "I am a writer and math-person interested in solving problems and creating beautiful things"
 
 [params]
 # Name of a file in static/skins/ without the ".css" extension
