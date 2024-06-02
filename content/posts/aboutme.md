@@ -11,7 +11,7 @@ color: blue
 * 📍 nyc
 
 
-<b>what did you do at yale, jean</b>
+**what did you do at yale, jean**
   
 At Yale, I was President of the [Yale Political Union](https://ypu.sites.yale.edu/), Opinion Editor and President of the Editorial Board at [Yale Daily News](https://yaledailynews.com/blog/author/jeanwang/), and Curatorial Assistant at the [YLS Law Library]([url](https://library.law.yale.edu/)). I also dabbled in [radio](https://wybc.com/) and [quantum computing research]([url](https://yaleqc.com/)). I researched [international security]([url](https://thecsi.org.uk/international-security-and-intelligence-isi-programme/)) at Cambridge University and interned at [D. E. Shaw Investment Management](https://www.deshaw.com/). 
 
