@@ -4,7 +4,7 @@ Made by Victoria Drake
 
 @media (prefers-color-scheme: light) {
      :root {
-        --color-bg: hsla(39, 51%, 85%, 1);
+        --color-bg: linear-gradient(90deg, hsla(39, 51%, 85%, 1) 0%, hsla(182, 93%, 68%, 1) 50%, hsla(318, 79%, 79%, 1) 100%);
         --item-bg: #f5f5f5;
         --accent: #E207BE;
     }
@@ -12,7 +12,7 @@ Made by Victoria Drake
 
 @media (prefers-color-scheme: dark) {
      :root {
-        --color-bg: hsla(39, 51%, 85%, 1);
+        --color-bg: linear-gradient(90deg, hsla(39, 51%, 85%, 1) 0%, hsla(182, 93%, 68%, 1) 50%, hsla(318, 79%, 79%, 1) 100%);
         --item-bg: #f5f5f5;
         --accent: #E207BE;
     }
