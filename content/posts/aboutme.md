@@ -6,24 +6,19 @@ tags:
 color: blue
 ---
 
-* pronouns: they/them
-* senior at yale college
-* math and english major
+* yale '24, B. A. Mathematics and English 
 * 🏠 from suzhou, china
-* 📍 currently new haven, ct
+* 📍 nyc
 
-## interests
 
-* **math**: group theory, graph theory, post-quantum cryptography
-* **english&lit**: postcolonial theory, queer theory, lyric poetry, manuscripts, classics, Chinese literature
-* **finance**: quantamental trading, portfolio strategy, portfolio optimization, factor investing
-* **technology**: quantum computing, quantum neuroscience,
-* **media studies**: digital ontology & governance, internet history
-* **theory**: phenomenology, political theory, critical theory, communication theory
-* **others**: publishing, editing, radio, film
+## writing
+
+* poetry: [DIAGRAM](https://www.thediagram.com/), [no, dear](http://www.nodearmagazine.com/) 
+* essays: [A Poetics of Estrangement](https://yale-herald.com/2022/10/16/a-poetics-of-estrangement/)
+
 
 ## contact
 
-* email: jean.wang (at) yale (dot) edu
+* email: jingyingwjy (at) gmail (dot) com
 * [twitter](https://twitter.com/jingyingwang_)
 * [linkedin](https://www.linkedin.com/in/jingyingwang/)
