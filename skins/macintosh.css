@@ -27,23 +27,20 @@ Made by Victoria Drake
 }
 
 @font-face {
-    font-family: Cardo;
-    src: url(/fonts/Cardo-Regular.ttf);
+    font-family: Arial;
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: Cardo;
-    src: url(/fonts/Cardo-Italic.ttf);
+    font-family: Arial;
     font-weight: normal;
     font-style: italic;
 }
 
 
 @font-face {
-    font-family: Cardo;
-    src: url(/fonts/Cardo-Bold.ttf);
+    font-family: Arial;
     font-weight: bold;
     font-style: normal;
 }
@@ -55,7 +52,7 @@ Made by Victoria Drake
 
 
 body {
-    font-family: Cardo !important;
+    font-family: Arial !important;
     letter-spacing: 0.1px;
     font-size: 14px !important;
     background: var(--color-bg);
